@@ -1,0 +1,42 @@
+.buttons {
+    border-radius: 5%;
+  width: 35%;
+  margin: 60px auto 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+.timerDisplay {
+  margin-top: 12%;
+  margin-left: 19%;
+  position: relative;
+  width: 50%;
+  background: #f0d9d998;
+  left: 4%;
+  padding: 40px 0;
+  font-family: "Roboto mono", monospace;
+  color: #121c20;
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 5px;
+  box-shadow: 0 0 20px rgba(0, 139, 253, 0.25);
+}
+.buttons button {
+  width: 120px;
+  height: 45px;
+  background-color: #463c3c;
+  color: #ffffff;
+  border: none;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+}
+.buttons button:nth-last-child(2) {
+  background-color: #463c3c;
+}
+.buttons button:nth-last-child(1) {
+  background-color: #463c3c;
+}

@@ -1,0 +1,14 @@
+h2{
+    text-align: center;
+    margin-top: 5%;
+}
+div {
+    width: 15%;
+    height: 10%;
+    font-family: system-ui;
+    background: #96d1d1b2;
+    color: rgb(3, 2, 2);
+    text-align: center;
+    margin-left: 42%;
+    padding: 2%;
+  }
